@@ -1,4 +1,5 @@
-#### 'jupyter notebook'을 사용함
+#### 크롤링은 'jupyter notebook'을 사용함
+#### 전처리는'R studio'을 사용함
 
 
 사용하는 비즈니스 플랫폼 - 아마존, 핀터레스트, 인스타그램
